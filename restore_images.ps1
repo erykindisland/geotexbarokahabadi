@@ -1,0 +1,7 @@
+New-Item -ItemType Directory -Force -Path "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets"
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\hero_banner_*.png" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\hero_banner.png" -Force
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\geotextile_non_woven_*.png" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\geotextile_non_woven.png" -Force
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\geotextile_woven_*.png" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\geotextile_woven.png" -Force
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\geogrid_*.png" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\geogrid.png" -Force
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\geobag_*.png" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\geobag.png" -Force
+Copy-Item "C:\Users\MyBook SAGA 12\.gemini\antigravity\brain\477b86ee-1d87-4f27-8e35-07c2fc2d7c42\geotex_barokah_abadi_demo_*.webp" "g:\My Drive\antigravity\ANTIGRAVITY FOLDERS\Geotex Barokah Abadi\Assets\demo_video.webp" -Force
